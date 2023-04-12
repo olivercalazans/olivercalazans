@@ -4,9 +4,10 @@
  - Estou cursando tecnólogo em **redes de computadores** no IFRN.
  - Atualmente mais focado em:  
     
-    <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-    <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    &nbsp;&nbsp;<img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+    &nbsp;&nbsp;<img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   
+##
 
 ### Onde você pode me encontrar
 <a href="https://br.linkedin.com/in/oliver-calazans-28b52720b">
