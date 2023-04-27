@@ -5,7 +5,7 @@
  - Atualmente mais focado em:  
     
     &nbsp;&nbsp;<img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-    &nbsp;&nbsp;<img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    &nbsp;&nbsp;<img width="80" height="93" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg" />
   
 ##
 
