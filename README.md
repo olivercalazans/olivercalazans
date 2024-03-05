@@ -1,7 +1,7 @@
 ### Oi, meu nome é Oliver.
 
 Mais conhecido por alguns como Calazans.  Estou cursando o **tecnólogo em redes de computadores**, pois acho bem interessante como as informações são transportadas e
-como funcionam os servidores.  Quero trabalhar na **área da Segurança da informação**, esse também foi um dos motívos por eu ter escolhido o curso de redes.  Gosto 
+como funcionam os servidores.  Quero trabalhar na **área da Segurança da informação**, esse também foi um dos motivos por eu ter escolhido o curso de redes.  Gosto 
 bastante de aprender, estudo bastante para poder melhorar minhas habilidades e aprender coisas novas.  Gosto muito de ler.  Os livros são uma das principais fontes que busco conhecimento.  Trabalho como professor de inglês em uma escola de ensino fundamental, mas já ensinei adultos também.  Tenho focado mais em desenvolver minhas
 habilidades no **Python** e no **Linux**, já que são muito usados na área da segurança.
 
