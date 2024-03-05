@@ -5,7 +5,6 @@ como funcionam os servidores.  Quero trabalhar na **área da Segurança da infor
 bastante de aprender, estudo bastante para poder melhorar minhas habilidades e aprender coisas novas.  Gosto muito de ler.  Os livros são uma das principais fontes que busco conhecimento.  Trabalho como professor de inglês em uma escola de ensino fundamental, mas já ensinei adultos também.  Tenho focado mais em desenvolver minhas
 habilidades no **Python** e no **Linux**, já que são muito usados na área da segurança.
 
-
  - Trabalho como **professor de inglês**.
  - Estou cursando tecnólogo em **redes de computadores** no IFRN, 4° semestre.
  - Atualmente mais focado em:  
