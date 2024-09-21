@@ -1,10 +1,9 @@
 ### Hi, I'm Oliver.
 
  - I'm currently pursuing a degree in computer networks technology at IFRN.
- - I aim to become a DBA.
  - I love studing and learn more and more.
  - I am an avid reader.
- - Currently I'm more focused on learning about relational databases.
+ - Currently, I am focusing on enhancing my skills in Python and databases.
 
     
 ## 🛠 Skills
