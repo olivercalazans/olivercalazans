@@ -3,7 +3,6 @@
  - I'm currently pursuing a degree in computer networks technology at IFRN.
  - I love studing and learn more and more.
  - I am an avid reader.
- - At the moment, I am more focused on improving my skills in Python and databases.
 
     
 ## 🛠 Skills
