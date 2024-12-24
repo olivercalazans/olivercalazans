@@ -12,6 +12,6 @@ Here on GitHub, you can find my personal projects. To explore my academic projec
 <br>
 
 ## 🔗 Where you can find me:
-<a href="https://br.linkedin.com/in/oliver-calazans-28b52720b">
+<a href="www.linkedin.com/in/olivercalazans">
   <img width="130" height="35" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
