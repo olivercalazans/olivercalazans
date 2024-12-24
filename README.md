@@ -13,7 +13,7 @@
 
 <div>
   <a href="https://gitlab.com/olivercalazans" target="_blank">
-    <img width="130" height="35" alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"/></a>
+    <img width="130" height="35" alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
   <a href="https://linkedin.com/in/olivercalazans" target="_blank">
-     <img width="130" height="35" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+     <img width="130" height="35" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
