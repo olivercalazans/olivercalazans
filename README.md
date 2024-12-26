@@ -13,7 +13,7 @@
 <br>
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olivercalazans&layout=donut&theme=dark)](https://github.com/olivercalazans)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olivercalazans&layout=compact&theme=dark)
 
 <br>
 
