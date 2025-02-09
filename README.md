@@ -32,13 +32,13 @@
   <table>
     <tr>
       <td align="center">
-        <p>My academic projects</p>
+        <p><strong>My academic projects</strong></p>
         <a href="https://gitlab.com/olivercalazans" target="_blank">
           <img width="60px" src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" />
         </a>
       </td>
       <td align="center">
-        <p>Where you can find me</p>
+        <p><strong>Where you can find me</strong></p>
         <a href="https://linkedin.com/in/olivercalazans" target="_blank">
           <img width="60px" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
         </a>
