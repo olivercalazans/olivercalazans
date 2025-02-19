@@ -12,21 +12,44 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivercalazans&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-
-<br>
-
-
-<p align="center">
-  <strong>My skills:</strong>
+<h3 align="center">My skills</h3>
+<p style="display: inline-block;" align="center">
+  <kbd>
+    <kbd>Python</kbd>
+    <br><br>
+      <img width="60px" src="https://techstack-generator.vercel.app/python-icon.svg"  width="60" height="60" alt="Python"/>
+  </kbd>
+  <kbd>
+    <kbd>Linux</kbd>
+    <br><br>
+      <img src="https://skillicons.dev/icons?i=linux" width="60" height="60" alt="Linux" />
+  </kbd>
+  <kbd>
+    <kbd>Bash</kbd>
+    <br><br>
+      <img src="https://skillicons.dev/icons?i=bash" width="60" height="60" alt="bash" />
+  </kbd>
+  <kbd>
+    <kbd>Git</kbd>
+    <br><br>
+       <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" />
+  </kbd>
+  <kbd>
+    <kbd>MySQL</kbd>
+    <br><br>
+      <img width="60px" src="https://techstack-generator.vercel.app/mysql-icon.svg"  width="60" height="60" alt="MySQL"/>
+  </kbd>
+  <kbd>
+    <kbd>PostgSQL</kbd>
+    <br><br>
+      <img src="https://skillicons.dev/icons?i=postgres" width="60" height="60" alt="PostgreSQL" />
+  </kbd>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,linux,bash,git,postgres,mysql" />
-  </a>
-</p>
 
 #
+
+<br>
 
 <p style="display: inline-block;" align="center">
   <kbd>
@@ -44,6 +67,5 @@
     </a>
   </kbd>
 </p>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=26A6BD&height=120&section=footer"/>
