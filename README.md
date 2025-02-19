@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=26A6BD&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Oliver+Calazans;Be+Welcome!)](https://git.io/typing-svg) 
 
@@ -46,6 +46,4 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e599b0c5-b812-4e11-908a-2bdec8c97c5f" width="2500" />
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=26A6BD&height=120&section=footer"/>
