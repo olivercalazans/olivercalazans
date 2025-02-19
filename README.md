@@ -26,23 +26,21 @@
   </a>
 </p>
 
-<br>
+#
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <p><strong>My academic projects</strong></p>
-        <a href="https://gitlab.com/olivercalazans" target="_blank">
-          <img width="60px" src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" />
-        </a>
-      </td>
-      <td align="center">
-        <p><strong>Where you can find me</strong></p>
-        <a href="https://linkedin.com/in/olivercalazans" target="_blank">
-          <img width="60px" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<p style="display: inline-block;" align="center">
+  <kbd>
+    <kbd>My academic projects</kbd>
+    <br><br>
+    <a href="https://gitlab.com/olivercalazans" target="_blank">
+      <img width="60px" src="https://skillicons.dev/icons?i=gitlab" />
+    </a>
+  </kbd>
+  <kbd>
+    <kbd>Where you can find me</kbd>
+    <br><br>
+    <a href="https://linkedin.com/in/olivercalazans" target="_blank">
+      <img width="60px" src="https://skillicons.dev/icons?i=linkedin" />
+    </a>
+  </kbd>
+</p>
