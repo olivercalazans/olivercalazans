@@ -7,14 +7,12 @@
   with others. Security, computer networks, and software development are fields that fascinate me, where I constantly strive to explore and improve my skills.
 </div>
 
-<br><br>
+<br>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=olivercalazans&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Oliver Calazans github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivercalazans&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-
-<br>
 
 <h3 align="center">My skills</h3>
 <p style="display: inline-block;" align="center">
@@ -50,11 +48,9 @@
   </kbd>
 </p>
 
-<br>
-
 #
 
-<br><br>
+<br>
 
 <p style="display: inline-block;" align="center">
   <kbd>
