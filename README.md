@@ -22,6 +22,21 @@
       <img width="60px" src="https://techstack-generator.vercel.app/python-icon.svg"  width="60" height="60" alt="Python"/>
   </kbd>
   <kbd>
+    <kbd>JavaScript</kbd>
+    <br><br>
+      <img width="60px" src="https://techstack-generator.vercel.app/js-icon.svg"  width="60" height="60" alt="JavaScript"/>
+  </kbd>
+  <kbd>
+    <kbd>HTML</kbd>
+    <br><br>
+      <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML" />
+  </kbd>
+  <kbd>
+    <kbd>CSS</kbd>
+    <br><br>
+      <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS" />
+  </kbd>
+  <kbd>
     <kbd>Linux</kbd>
     <br><br>
       <img src="https://skillicons.dev/icons?i=linux" width="60" height="60" alt="Linux" />
@@ -35,6 +50,11 @@
     <kbd>Git</kbd>
     <br><br>
        <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" />
+  </kbd>
+  <kbd>
+    <kbd>Docker</kbd>
+    <br><br>
+      <img width="60px" src="https://techstack-generator.vercel.app/docker-icon.svg"  width="60" height="60" alt="Docker"/>
   </kbd>
   <kbd>
     <kbd>MySQL</kbd>
