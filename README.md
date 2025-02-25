@@ -57,21 +57,13 @@
 
 <br>
 
-<p style="display: inline-block;" align="center">
-  <kbd>
-    <kbd>My academic projects</kbd>
-    <br><br>
-    <a href="https://gitlab.com/olivercalazans" target="_blank">
-      <img width="60px" src="https://skillicons.dev/icons?i=gitlab" />
-    </a>
-  </kbd>
-  <kbd>
-    <kbd>Where you can find me</kbd>
-    <br><br>
-    <a href="https://linkedin.com/in/olivercalazans" target="_blank">
-      <img width="60px" src="https://skillicons.dev/icons?i=linkedin" />
-    </a>
-  </kbd>
+<p align="center">
+  <strong>Where you can find me:</strong>
+</p>
+<p align="center">
+  <a href="https://linkedin.com/in/olivercalazans" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=26A6BD&height=120&section=footer"/>
