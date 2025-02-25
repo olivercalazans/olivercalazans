@@ -62,7 +62,7 @@
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/olivercalazans" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="60" height="60" />
   </a>
 </p>
 
