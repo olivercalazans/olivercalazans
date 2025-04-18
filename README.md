@@ -19,7 +19,27 @@
   <kbd>
     <kbd>Python</kbd>
     <br><br>
-      <img width="60px" src="https://techstack-generator.vercel.app/python-icon.svg"  width="60" height="60" alt="Python"/>
+      <img width="60px" src="https://skillicons.dev/icons?i=python"  width="60" height="60" alt="Python"/>
+  </kbd>
+  <kbd>
+    <kbd>PHP</kbd>
+    <br><br>
+      <img src="https://skillicons.dev/icons?i=php" width="60" height="60" alt="PHP" />
+  </kbd>
+  <kbd>
+    <kbd>JavaScript</kbd>
+    <br><br>
+      <img width="60px" src="https://skillicons.dev/icons?i=javascript"  width="60" height="60" alt="JavaScipt"/>
+  </kbd>
+  <kbd>
+    <kbd>HTML</kbd>
+    <br><br>
+      <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML" />
+  </kbd>
+  <kbd>
+    <kbd>CSS</kbd>
+    <br><br>
+      <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS" />
   </kbd>
   <kbd>
     <kbd>Linux</kbd>
@@ -29,7 +49,12 @@
   <kbd>
     <kbd>Bash</kbd>
     <br><br>
-      <img src="https://skillicons.dev/icons?i=bash" width="60" height="60" alt="bash" />
+      <img src="https://skillicons.dev/icons?i=bash" width="60" height="60" alt="Bash" />
+  </kbd>
+  <kbd>
+    <kbd>PowerShell</kbd>
+    <br><br>
+      <img src="https://skillicons.dev/icons?i=powershell" width="60" height="60" alt="PowerShell" />
   </kbd>
   <kbd>
     <kbd>Git</kbd>
@@ -37,19 +62,19 @@
        <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" />
   </kbd>
   <kbd>
-    <kbd>Docker</kbd>
-    <br><br>
-      <img width="60px" src="https://techstack-generator.vercel.app/docker-icon.svg"  width="60" height="60" alt="Docker"/>
-  </kbd>
-  <kbd>
     <kbd>MySQL</kbd>
     <br><br>
-      <img width="60px" src="https://techstack-generator.vercel.app/mysql-icon.svg"  width="60" height="60" alt="MySQL"/>
+      <img width="60px" src="https://skillicons.dev/icons?i=mysql"  width="60" height="60" alt="MySQL"/>
   </kbd>
   <kbd>
     <kbd>PostgreSQL</kbd>
     <br><br>
       <img src="https://skillicons.dev/icons?i=postgresql" width="60" height="60" alt="PostgreSQL" />
+  </kbd>
+  <kbd>
+    <kbd>SQLite</kbd>
+    <br><br>
+      <img src="https://skillicons.dev/icons?i=sqlite" width="60" height="60" alt="SQLite" />
   </kbd>
 </p>
 
