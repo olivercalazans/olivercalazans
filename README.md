@@ -27,19 +27,6 @@
       <img width="60px" src="https://skillicons.dev/icons?i=javascript"  width="60" height="60" alt="JavaScipt"/>
   </kbd>
   <kbd>
-    <kbd>HTML</kbd>
-    <br><br>
-      <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML" />
-  </kbd>
-  <kbd>
-    <kbd>CSS</kbd>
-    <br><br>
-      <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS" />
-  </kbd>
-
-<br>
-  
-  <kbd>
     <kbd>Linux</kbd>
     <br><br>
       <img src="https://skillicons.dev/icons?i=linux" width="60" height="60" alt="Linux" />
