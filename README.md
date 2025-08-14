@@ -22,11 +22,6 @@
       <img width="60px" src="https://skillicons.dev/icons?i=python"  width="60" height="60" alt="Python"/>
   </kbd>
   <kbd>
-    <kbd>JavaScript</kbd>
-    <br><br>
-      <img width="60px" src="https://skillicons.dev/icons?i=javascript"  width="60" height="60" alt="JavaScipt"/>
-  </kbd>
-  <kbd>
     <kbd>Linux</kbd>
     <br><br>
       <img src="https://skillicons.dev/icons?i=linux" width="60" height="60" alt="Linux" />
