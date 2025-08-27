@@ -22,6 +22,11 @@
       <img width="60px" src="https://skillicons.dev/icons?i=python"  width="60" height="60" alt="Python"/>
   </kbd>
   <kbd>
+    <kbd>Rust</kbd>
+    <br><br>
+      <img src="https://skillicons.dev/icons?i=rust" width="60" height="60" alt="Rust" />
+  </kbd>
+  <kbd>
     <kbd>Linux</kbd>
     <br><br>
       <img src="https://skillicons.dev/icons?i=linux" width="60" height="60" alt="Linux" />
