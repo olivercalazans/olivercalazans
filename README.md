@@ -26,6 +26,11 @@
       <img width="60px" src="https://skillicons.dev/icons?i=python"  width="60" height="60" alt="Python"/>
   </kbd>
   <kbd>
+    <kbd>Golang</kbd>
+    <br><br>
+      <img src="https://skillicons.dev/icons?i=go" width="60" height="60" alt="Golang" />
+  </kbd>
+  <kbd>
     <kbd>Rust</kbd>
     <br><br>
       <img src="https://skillicons.dev/icons?i=rust" width="60" height="60" alt="Rust" />
@@ -34,16 +39,6 @@
     <kbd>Linux</kbd>
     <br><br>
       <img src="https://skillicons.dev/icons?i=linux" width="60" height="60" alt="Linux" />
-  </kbd>
-  <kbd>
-    <kbd>Bash</kbd>
-    <br><br>
-      <img src="https://skillicons.dev/icons?i=bash" width="60" height="60" alt="Bash" />
-  </kbd>
-  <kbd>
-    <kbd>PowerShell</kbd>
-    <br><br>
-      <img src="https://skillicons.dev/icons?i=powershell" width="60" height="60" alt="PowerShell" />
   </kbd>
   <kbd>
     <kbd>Git</kbd>
