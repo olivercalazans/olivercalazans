@@ -26,11 +26,6 @@
       <img width="60px" src="https://skillicons.dev/icons?i=python"  width="60" height="60" alt="Python"/>
   </kbd>
   <kbd>
-    <kbd>Golang</kbd>
-    <br><br>
-      <img src="https://skillicons.dev/icons?i=go" width="60" height="60" alt="Golang" />
-  </kbd>
-  <kbd>
     <kbd>Rust</kbd>
     <br><br>
       <img src="https://skillicons.dev/icons?i=rust" width="60" height="60" alt="Rust" />
