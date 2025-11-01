@@ -18,44 +18,16 @@
 <br>
 
 
-<h3 align="center">My skills</h3>
-<p style="display: inline-block;" align="center">
-  <kbd>
-    <kbd>Python</kbd>
-    <br><br>
-      <img width="60px" src="https://skillicons.dev/icons?i=python"  width="60" height="60" alt="Python"/>
-  </kbd>
-  <kbd>
-    <kbd>Rust</kbd>
-    <br><br>
-      <img src="https://skillicons.dev/icons?i=rust" width="60" height="60" alt="Rust" />
-  </kbd>
-  <kbd>
-    <kbd>Linux</kbd>
-    <br><br>
-      <img src="https://skillicons.dev/icons?i=linux" width="60" height="60" alt="Linux" />
-  </kbd>
-  <kbd>
-    <kbd>Git</kbd>
-    <br><br>
-       <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" />
-  </kbd>
-  <kbd>
-    <kbd>MySQL</kbd>
-    <br><br>
-      <img width="60px" src="https://skillicons.dev/icons?i=mysql"  width="60" height="60" alt="MySQL"/>
-  </kbd>
-  <kbd>
-    <kbd>PostgreSQL</kbd>
-    <br><br>
-      <img src="https://skillicons.dev/icons?i=postgresql" width="60" height="60" alt="PostgreSQL" />
-  </kbd>
-  <kbd>
-    <kbd>SQLite</kbd>
-    <br><br>
-      <img src="https://skillicons.dev/icons?i=sqlite" width="60" height="60" alt="SQLite" />
-  </kbd>
+<h3 align="center">Some of my projects</h3>
+<p align="center">
+  <a href="https://github.com/olivercalazans/offscan">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=olivercalazans&repo=offscan&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9" alt="SatIntel">
+  </a>
+  <a href="https://github.com/olivercalazans/ruckusguard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=olivercalazans&repo=ruckusguard&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9" alt="SatIntel">
+  </a>
 </p>
+
 
 #
 
