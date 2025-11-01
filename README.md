@@ -18,17 +18,6 @@
 <br>
 
 
-<h3 align="center">Some of my projects</h3>
-<p align="center">
-  <a href="https://github.com/olivercalazans/offscan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=olivercalazans&repo=offscan&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9" alt="SatIntel">
-  </a>
-  <a href="https://github.com/olivercalazans/ruckusguard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=olivercalazans&repo=ruckusguard&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9" alt="SatIntel">
-  </a>
-</p>
-
-
 #
 
 <br>
