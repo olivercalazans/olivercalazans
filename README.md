@@ -41,7 +41,7 @@
     
 <div>
   <a href="https://github.com/olivercalazans/offscan">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=olivercalazans&repo=offscan&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9" alt="SatIntel">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=olivercalazans&repo=offscan&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9" alt="OffScan">
   </a>
 </div>
 
