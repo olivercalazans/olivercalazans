@@ -31,7 +31,26 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivercalazans&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
+
 <br>
+
+<h3 align="center"> Some of my projects</h3>
+
+<br>
+
+    
+<div>
+  <a href="https://github.com/olivercalazans/offscan">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=olivercalazans&repo=offscan&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9" alt="SatIntel">
+  </a>
+</div>
+
+<br>
+
+OffScan is a command-line tool developed in Rust for network exploration, device and service enumeration, and offensive security testing. What it can do:
+***Network Mapping, Port Scanning, Packet Flooding, Protocol Tunneling test***
+
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=26A6BD&height=120&section=footer"/>
