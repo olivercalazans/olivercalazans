@@ -48,7 +48,7 @@
 <br>
 
 OffScan is a command-line tool developed in Rust for network exploration, device and service enumeration, and offensive security testing. What it can do:
-***Network Mapping, Port Scanning, Packet Flooding, Protocol Tunneling test***
+***Network Mapping, Port Scanning, Packet Flooding, Protocol Tunneling test, and more.***
 
 
 
