@@ -32,33 +32,33 @@
         height="200px" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivercalazans&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
     </kdb>
-    <br>
+    <br><br>
     <div align="right">
         <p style="display: inline-block;" align="center">
             <kbd>
                 <kbd>Python</kbd>
                 <br><br>
-                <img src="https://skillicons.dev/icons?i=python" width="70" height="70" alt="Python"/>
+                <img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python"/>
             </kbd>
             <kbd>
                 <kbd>Rust</kbd>
                 <br><br>
-                <img src="https://skillicons.dev/icons?i=rust" width="70" height="70" alt="Rust" />
+                <img src="https://skillicons.dev/icons?i=rust" width="65" height="65" alt="Rust" />
             </kbd>
             <kbd>
                 <kbd>Linux</kbd>
                 <br><br>
-                <img src="https://skillicons.dev/icons?i=linux" width="70" height="70" alt="Linux" />
+                <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
             </kbd>
             <kbd>
                 <kbd>Bash</kbd>
                 <br><br>
-                <img src="https://skillicons.dev/icons?i=bash" width="70" height="70" alt="Bash" />
+                <img src="https://skillicons.dev/icons?i=bash" width="65" height="65" alt="Bash" />
             </kbd>
             <kbd>
                 <kbd>Git</kbd>
                 <br><br>
-                <img src="https://skillicons.dev/icons?i=git" width="70" height="70" alt="Git" />
+                <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
             </kbd>
         </p>
     </div>
