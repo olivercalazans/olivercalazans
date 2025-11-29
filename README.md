@@ -19,20 +19,54 @@
 #
 
 
-<div align="center">  
-  <img 
-    width="49%" 
-    height="195px" 
-    src="https://github-readme-stats.vercel.app/api?username=olivercalazans&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Oliver Calazans github stats"
-    /> 
-  <img 
-    width="41%" 
-    height="195px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivercalazans&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<br>
+
+<h3 align="center"> My Skills </h3>
+
+<div align="center">
+    <p style="display: inline-block;" align="center">
+    <kdb>
+    <img
+        align="left" 
+        width="45%" 
+        height="200px" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivercalazans&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+    </kdb>
+    <br>
+    <div align="right">
+        <p style="display: inline-block;" align="center">
+            <kbd>
+                <kbd>Python</kbd>
+                <br><br>
+                <img src="https://skillicons.dev/icons?i=python" width="80" height="80" alt="Python"/>
+            </kbd>
+            <kbd>
+                <kbd>Rust</kbd>
+                <br><br>
+                <img src="https://skillicons.dev/icons?i=rust" width="80" height="80" alt="Rust" />
+            </kbd>
+            <kbd>
+                <kbd>Linux</kbd>
+                <br><br>
+                <img src="https://skillicons.dev/icons?i=linux" width="80" height="80" alt="Linux" />
+            </kbd>
+            <kbd>
+                <kbd>Bash</kbd>
+                <br><br>
+                <img src="https://skillicons.dev/icons?i=bash" width="80" height="80" alt="Bash" />
+            </kbd>
+            <kbd>
+                <kbd>Git</kbd>
+                <br><br>
+                <img src="https://skillicons.dev/icons?i=git" width="80" height="80" alt="Git" />
+            </kbd>
+        </p>
+    </div>
 </div>
 
 
-<br>
+
+<br><br><br>
 
 <h3 align="center"> Some of my projects</h3>
 
