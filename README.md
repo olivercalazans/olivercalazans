@@ -9,48 +9,7 @@
 
 #
 
-
-<br>
-
-<h3 align="center"> My Skills </h3>
-
-<div align="center">
-        <p style="display: inline-block;" align="center">
-            <kbd>
-                <kbd>Python</kbd>
-                <br><br>
-                <img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python"/>
-            </kbd>
-            <kbd>
-                <kbd>Rust</kbd>
-                <br><br>
-                <img src="https://skillicons.dev/icons?i=rust" width="65" height="65" alt="Rust" />
-            </kbd>
-            <kbd>
-                <kbd>Linux</kbd>
-                <br><br>
-                <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
-            </kbd>
-            <kbd>
-                <kbd>Bash</kbd>
-                <br><br>
-                <img src="https://skillicons.dev/icons?i=bash" width="65" height="65" alt="Bash" />
-            </kbd>
-            <kbd>
-                <kbd>Git</kbd>
-                <br><br>
-                <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
-            </kbd>
-        </p>
-</div>
-
-
-
-<br><br><br>
-
-<h3 align="center"> Some of my projects</h3>
-
-<br>
+<br><br>
 
     
 <div>
@@ -65,6 +24,7 @@ OffScan is a command-line tool developed in Rust for network exploration, device
 ***Network Mapping, Port Scanning, Packet Flooding, Protocol Tunneling test, and more.***
 
 
+<br>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=26A6BD&height=120&section=footer"/>
