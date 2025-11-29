@@ -38,27 +38,27 @@
             <kbd>
                 <kbd>Python</kbd>
                 <br><br>
-                <img src="https://skillicons.dev/icons?i=python" width="80" height="80" alt="Python"/>
+                <img src="https://skillicons.dev/icons?i=python" width="70" height="70" alt="Python"/>
             </kbd>
             <kbd>
                 <kbd>Rust</kbd>
                 <br><br>
-                <img src="https://skillicons.dev/icons?i=rust" width="80" height="80" alt="Rust" />
+                <img src="https://skillicons.dev/icons?i=rust" width="70" height="70" alt="Rust" />
             </kbd>
             <kbd>
                 <kbd>Linux</kbd>
                 <br><br>
-                <img src="https://skillicons.dev/icons?i=linux" width="80" height="80" alt="Linux" />
+                <img src="https://skillicons.dev/icons?i=linux" width="70" height="70" alt="Linux" />
             </kbd>
             <kbd>
                 <kbd>Bash</kbd>
                 <br><br>
-                <img src="https://skillicons.dev/icons?i=bash" width="80" height="80" alt="Bash" />
+                <img src="https://skillicons.dev/icons?i=bash" width="70" height="70" alt="Bash" />
             </kbd>
             <kbd>
                 <kbd>Git</kbd>
                 <br><br>
-                <img src="https://skillicons.dev/icons?i=git" width="80" height="80" alt="Git" />
+                <img src="https://skillicons.dev/icons?i=git" width="70" height="70" alt="Git" />
             </kbd>
         </p>
     </div>
