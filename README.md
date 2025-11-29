@@ -5,15 +5,6 @@
       src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=600&lines=I'm+Oliver+Calazans;You+can+find+me+on+LinkedIn+"
       alt="Typing SVG"
     >
-    <a 
-      href="https://linkedin.com/in/olivercalazans"
-      target="_blank">
-      <img
-        width="60"
-        height="60"
-        src="https://skillicons.dev/icons?i=linkedin"
-        alt="LinkedIn">
-    </a>
 </div>
 
 #
