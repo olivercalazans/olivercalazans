@@ -15,16 +15,6 @@
 <h3 align="center"> My Skills </h3>
 
 <div align="center">
-    <p style="display: inline-block;" align="center">
-    <kdb>
-    <img
-        align="left" 
-        width="45%" 
-        height="200px" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivercalazans&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-    </kdb>
-    <br><br>
-    <div align="right">
         <p style="display: inline-block;" align="center">
             <kbd>
                 <kbd>Python</kbd>
@@ -52,7 +42,6 @@
                 <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
             </kbd>
         </p>
-    </div>
 </div>
 
 
