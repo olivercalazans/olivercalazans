@@ -10,32 +10,70 @@
 
 <br>
 
-
-```rust
-let mut oliver = Oliver {
-    code:     vec![Rust, Python, Golang, Bash],
-    OS:       vec![Linux, Windows],
-    database: vec![MySQL, PostgreSQL, SQLite],
-    hobbies:  vec!["programming", "books"],
-};
-```
+# Tech Stack
+<p style="display: inline-block;" align="center">
+  <kbd>
+    <kbd>Python</kbd>
+    <br><br>
+      <img width="60px" src="https://skillicons.dev/icons?i=python"  width="60" height="60" alt="Python"/>
+  </kbd>
+  <kbd>
+    <kbd>Rust</kbd>
+    <br><br>
+      <img width="60px" src="https://skillicons.dev/icons?i=rust"  width="60" height="60" alt="Rust"/>
+  </kbd>
+  <kbd>
+    <kbd>Linux</kbd>
+    <br><br>
+      <img src="https://skillicons.dev/icons?i=linux" width="60" height="60" alt="Linux" />
+  </kbd>
+  <kbd>
+    <kbd>Bash</kbd>
+    <br><br>
+      <img src="https://skillicons.dev/icons?i=bash" width="60" height="60" alt="Bash" />
+  </kbd>
+  <kbd>
+    <kbd>Git</kbd>
+    <br><br>
+       <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" />
+  </kbd>
+  <kbd>
+    <kbd>MySQL</kbd>
+    <br><br>
+      <img width="60px" src="https://skillicons.dev/icons?i=mysql"  width="60" height="60" alt="MySQL"/>
+  </kbd>
+  <kbd>
+    <kbd>PostgreSQL</kbd>
+    <br><br>
+      <img src="https://skillicons.dev/icons?i=postgresql" width="60" height="60" alt="PostgreSQL" />
+  </kbd>
+  <kbd>
+    <kbd>SQLite</kbd>
+    <br><br>
+      <img src="https://skillicons.dev/icons?i=sqlite" width="60" height="60" alt="SQLite" />
+  </kbd>
+</p>
 
 <br>
 
 
 
 # Some of my projects
-<div>
-  <a href="https://github.com/olivercalazans/offscan">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=olivercalazans&repo=offscan&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9" alt="OffScan">
-  </a>
-</div>
 
-<br>
-
-OffScan is a command-line tool developed in Rust for network exploration, device and service enumeration, and offensive security testing. What it can do:
-***Network Mapping, Port Scanning, Packet Flooding, Protocol Tunneling test, and more.***
-
+### OffScan - [https://github.com/olivercalazans/offscan](https://github.com/olivercalazans/offscan)
+```rust
+let mut offscan = OffScan {
+    about: "command-line tool for network exploration and offensive security testing",
+    code: Rust,
+    exploration: vec![
+        "Network Mapping", "Port Scanning", "Banner Grabbing"
+    ],
+    offensive: vec![
+        "TCP Flooding", "ICMP Flooding", "802.11 Auth Flooding",
+        "Protocol Tunneling Test"
+    ],
+};
+```
 
 <br>
 
