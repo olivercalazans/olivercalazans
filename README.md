@@ -61,18 +61,19 @@
 # Some of my projects
 
 ### OffScan - [https://github.com/olivercalazans/offscan](https://github.com/olivercalazans/offscan)
-```rust
-let mut offscan = OffScan {
-    about: "command-line tool for network exploration and offensive security testing",
-    code: Rust,
-    exploration: vec![
-        "Network Mapping", "Port Scanning", "Banner Grabbing"
-    ],
-    offensive: vec![
-        "TCP Flooding", "ICMP Flooding", "802.11 Auth Flooding",
-        "Protocol Tunneling Test"
-    ],
-};
+```
+OffScan is a command-line tool developed in Rust for network exploration,
+device and service enumeration, and offensive security testing.
+What it can do:
++----------------------------------+----------------------+
+|  Offensive Tests                 |  Network Exploration |
+|----------------------------------|----------------------|
+|  802.11 Authentication Flooding  |  Banner Grabbing     |
+|  ICMP (Ping) Flooding            |  Network Mapping     |
+|  TCP Flooding                    |  Port Scanning       |
+|  Packet Flooding                 |  Wifi Mapping        |
+|  Protocol Tunneling test         |                      |
++----------------------------------+----------------------+
 ```
 
 <br>
