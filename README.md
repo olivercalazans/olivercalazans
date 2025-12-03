@@ -27,7 +27,7 @@
 
 <br>
 
-# Tech Stack
+<h3 align="center"> Tech Stack </h3>
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Python</kbd>
@@ -71,13 +71,15 @@
   </kbd>
 </p>
 
-<br>
+<br><br>
 
 
 
-# Some of my projects
+<h3 align="center"> Some of my projects <h3>
+
 
 ### OffScan - [https://github.com/olivercalazans/offscan](https://github.com/olivercalazans/offscan)
+
 ```
 OffScan is a command-line tool developed in Rust for network exploration,
 device and service enumeration, and offensive security testing.
