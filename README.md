@@ -8,6 +8,26 @@
 </div>
 
 
+
+
+<br>
+
+
+<div align="center">  
+  <img src="https://github-readme-stats-vineet.vercel.app/api?username=olivercalazans&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true" 
+    width="49%" 
+    height="195px" 
+    alt="Oliver Calazans github stats"
+  /> 
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=olivercalazans&langs_count=8&layout=compact&theme=github_dark&hide_border=true" 
+    width="41%" 
+    height="195px" 
+  />
+</div>
+
+
+
+
 <br>
 
 # Tech Stack
