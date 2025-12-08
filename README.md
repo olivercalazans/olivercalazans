@@ -9,9 +9,7 @@
 
 
 
-
 <br>
-
 
 <div align="center">
   <img src="https://github-readme-stats-pi-two-58.vercel.app/api?username=olivercalazans&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" 
@@ -75,25 +73,21 @@
 
 
 
-<h3 align="center"> Some of my projects <h3>
+<h3 align="center"> Some of my projects </h3>
 
+<a href="https://github.com/olivercalazans/offscan">
+  <img 
+    alt="OffScan"
+    align="left"
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=olivercalazans&repo=offscan&theme=github_dark&title_color=00bfbf&icon_color=F8D877&border_color=305FC2"
+  />
+</a>
 
-### OffScan - [https://github.com/olivercalazans/offscan](https://github.com/olivercalazans/offscan)
+<br>
 
-```
-OffScan is a command-line tool developed in Rust for network exploration,
-device and service enumeration, and offensive security testing.
-What it can do:
-+----------------------------------+----------------------+
-|  Offensive Tests                 |  Network Exploration |
-|----------------------------------|----------------------|
-|  802.11 Authentication Flooding  |  Banner Grabbing     |
-|  ICMP (Ping) Flooding            |  Network Mapping     |
-|  TCP Flooding                    |  Port Scanning       |
-|  Packet Flooding                 |  Wifi Mapping        |
-|  Protocol Tunneling test         |                      |
-+----------------------------------+----------------------+
-```
+OffScan is a command-line tool developed in Rust for network exploration, device and service enumeration, and offensive security testing. What it can do:
+***Network Mapping, Port Scanning, Packet Flooding, and more.***
+
 
 <br>
 
