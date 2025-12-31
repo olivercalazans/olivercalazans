@@ -23,58 +23,6 @@
 
 
 
-<br>
-
-<h2 align="center"> Tech Stack </h2>
-
-<br>
-
-<p style="display: inline-block;" align="center">
-  <kbd>
-    <kbd>Python</kbd>
-    <br><br>
-      <img width="60px" src="https://skillicons.dev/icons?i=python"  width="60" height="60" alt="Python"/>
-  </kbd>
-  <kbd>
-    <kbd>Rust</kbd>
-    <br><br>
-      <img width="60px" src="https://skillicons.dev/icons?i=rust"  width="60" height="60" alt="Rust"/>
-  </kbd>
-  <kbd>
-    <kbd>Linux</kbd>
-    <br><br>
-      <img src="https://skillicons.dev/icons?i=linux" width="60" height="60" alt="Linux" />
-  </kbd>
-  <kbd>
-    <kbd>Bash</kbd>
-    <br><br>
-      <img src="https://skillicons.dev/icons?i=bash" width="60" height="60" alt="Bash" />
-  </kbd>
-  <kbd>
-    <kbd>Git</kbd>
-    <br><br>
-       <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" />
-  </kbd>
-  <kbd>
-    <kbd>MySQL</kbd>
-    <br><br>
-      <img width="60px" src="https://skillicons.dev/icons?i=mysql"  width="60" height="60" alt="MySQL"/>
-  </kbd>
-  <kbd>
-    <kbd>PostgreSQL</kbd>
-    <br><br>
-      <img src="https://skillicons.dev/icons?i=postgresql" width="60" height="60" alt="PostgreSQL" />
-  </kbd>
-  <kbd>
-    <kbd>SQLite</kbd>
-    <br><br>
-      <img src="https://skillicons.dev/icons?i=sqlite" width="60" height="60" alt="SQLite" />
-  </kbd>
-</p>
-
-
-
-<br><br>
 
 <h2 align="center"> Some of my projects </h2>
 
