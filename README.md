@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=26A6BD&height=120&section=header"/>
-
 <div align="center">
     <img 
       src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=600&lines=I'm+Oliver+Calazans;You+can+find+me+on+LinkedIn+"
@@ -62,9 +60,3 @@
   NetXplorer is a command-line tool developed in Python for network analysis and exploration. It allows users to gather information about active devices and services, providing a simple and efficient interface for Linux users. <br>
   ***This project was used as a proof of concept for the OffScan project.***
 </div>
-
-
-<br>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=26A6BD&height=120&section=footer"/>
