@@ -1,10 +1,11 @@
-<div align="center">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=600&lines=I'm+Oliver+Calazans;You+can+find+me+on+LinkedIn+"
-      alt="Typing SVG"
-    >
-</div>
+<h1 align="center"> Oliver Calazans </h1>
+<h3 align="center"> You can find me on LinkedIn </h3>
 
+<div align="center">
+  <a href="https://linkedin.com/in/olivercalazans">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</div>
 
 
 <br>
