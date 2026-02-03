@@ -14,7 +14,7 @@
   <img src="https://github-readme-stats-pi-two-58.vercel.app/api?username=olivercalazans&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" 
     style="display: inline-block; width: 52%;" 
   /> 
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=olivercalazans&langs_count=8&layout=compact&theme=github_dark&hide_border=true&hide_title=true" 
+  <img src="https://github-readme-stats-pi-two-58.vercel.app/api/top-langs/?username=olivercalazans&langs_count=8&layout=compact&theme=github_dark&hide_border=true&hide_title=true" 
     style="display: inline-block; width: 40%;" 
   />
 </div>
