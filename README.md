@@ -78,9 +78,9 @@
       <img src="https://skillicons.dev/icons?i=bash" width="60" height="60" alt="Bash" />
   </kbd>
   <kbd>
-    <kbd>PostgreSQL</kbd>
+    <kbd>SQLite</kbd>
     <br><br>
-      <img src="https://skillicons.dev/icons?i=postgresql" width="60" height="60" alt="PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=sqlite" width="60" height="60" alt="SQLite" />
   </kbd>
   <kbd>
     <kbd>LaTeX</kbd>
