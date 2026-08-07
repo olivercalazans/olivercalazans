@@ -55,9 +55,9 @@
        <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS" />
   </kbd>
   <kbd>
-    <kbd>Deno</kbd>
+    <kbd>Node.js</kbd>
     <br><br>
-       <img src="https://skillicons.dev/icons?i=deno" width="60" height="60" alt="Deno" />
+       <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Node" />
   </kbd>
   
   <br>
@@ -86,5 +86,10 @@
     <kbd>LaTeX</kbd>
     <br><br>
       <img src="https://skillicons.dev/icons?i=latex" width="60" height="60" alt="LaTeX" />
+  </kbd>
+  <kbd>
+    <kbd>Cloudflare</kbd>
+    <br><br>
+      <img src="https://skillicons.dev/icons?i=cloudflare" width="60" height="60" alt="Cloudflare" />
   </kbd>
 </p>
