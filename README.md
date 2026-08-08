@@ -34,6 +34,9 @@
     <br><br>
       <img width="60px" src="https://skillicons.dev/icons?i=rust"  width="60" height="60" alt="Rust"/>
   </kbd>
+
+  <br>
+  
   <kbd>
     <kbd>TypeScript</kbd>
     <br><br>
