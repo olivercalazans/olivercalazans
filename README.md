@@ -34,42 +34,6 @@
     <br><br>
       <img width="60px" src="https://skillicons.dev/icons?i=rust"  width="60" height="60" alt="Rust"/>
   </kbd>
-
-  <br>
-  
-  <kbd>
-    <kbd>TypeScript</kbd>
-    <br><br>
-      <img width="60px" src="https://skillicons.dev/icons?i=ts"  width="60" height="60" alt="TypeScript"/>
-  </kbd>
-  <kbd>
-    <kbd>JavaScript</kbd>
-    <br><br>
-      <img width="60px" src="https://skillicons.dev/icons?i=js"  width="60" height="60" alt="JavaScript"/>
-  </kbd>
-  <kbd>
-    <kbd>HTML</kbd>
-    <br><br>
-       <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML" />
-  </kbd>
-  <kbd>
-    <kbd>CSS</kbd>
-    <br><br>
-       <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS" />
-  </kbd>
-  <kbd>
-    <kbd>Node.js</kbd>
-    <br><br>
-       <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Node" />
-  </kbd>
-  
-  <br>
-  
-  <kbd>
-    <kbd>Git</kbd>
-    <br><br>
-       <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" />
-  </kbd>
   <kbd>
     <kbd>Linux</kbd>
     <br><br>
@@ -81,18 +45,13 @@
       <img src="https://skillicons.dev/icons?i=bash" width="60" height="60" alt="Bash" />
   </kbd>
   <kbd>
-    <kbd>SQLite</kbd>
+    <kbd>Git</kbd>
     <br><br>
-      <img src="https://skillicons.dev/icons?i=sqlite" width="60" height="60" alt="SQLite" />
+       <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" />
   </kbd>
   <kbd>
     <kbd>LaTeX</kbd>
     <br><br>
       <img src="https://skillicons.dev/icons?i=latex" width="60" height="60" alt="LaTeX" />
-  </kbd>
-  <kbd>
-    <kbd>Cloudflare</kbd>
-    <br><br>
-      <img src="https://skillicons.dev/icons?i=cloudflare" width="60" height="60" alt="Cloudflare" />
   </kbd>
 </p>
