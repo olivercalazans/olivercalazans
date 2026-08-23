@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=olivercalazans&langs_count=8&layout=compact&theme=github_dark&hide_border=true&hide_title=true" 
     style="display: inline-block; width: 48%;"/>
-  <img src="https://raw.githubusercontent.com/olivercalazans/my-github-stats/main/languages_stats.svg"
+  <img src="https://raw.githubusercontent.com/olivercalazans/my-github-stats/main/images/languages_stats.svg"
     alt="top-langs" style="display: inline-block; width: 37%;" />
 </div>
 
