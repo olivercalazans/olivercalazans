@@ -10,9 +10,9 @@
 ## 📊 Activity
 <div align="center">
   <img src="https://raw.githubusercontent.com/olivercalazans/my-github-stats/main/images/github_stats.svg" 
-    style="display: inline-block; width: 30%;"/>
+    style="display: inline-block; width: 33%;"/>
   <img src="https://raw.githubusercontent.com/olivercalazans/my-github-stats/main/images/languages_stats.svg"
-    alt="top-langs" style="display: inline-block; width: 37%;" />
+    alt="top-langs" style="display: inline-block; width: 40%;" />
 </div>
 
 
