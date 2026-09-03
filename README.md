@@ -51,6 +51,21 @@
        <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" />
   </kbd>
   <kbd>
+    <kbd>Docker</kbd>
+    <br><br>
+       <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/docker-moby.svg" width="60" height="60" alt="Docker" />
+  </kbd>
+  <kbd>
+    <kbd>NGINX</kbd>
+    <br><br>
+       <img src="https://skillicons.dev/icons?i=nginx" width="60" height="60" alt="NGINX" />
+  </kbd>
+  <kbd>
+    <kbd>Proxmox</kbd>
+    <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox.svg" width="60" height="60" alt="Proxmox" />
+  </kbd>
+  <kbd>
     <kbd>LaTeX</kbd>
     <br><br>
       <img src="https://skillicons.dev/icons?i=latex" width="60" height="60" alt="LaTeX" />
