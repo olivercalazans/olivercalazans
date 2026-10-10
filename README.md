@@ -7,10 +7,8 @@
   </a>
 </div>
 
-## 📊 Activity
+<br>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/olivercalazans/my-github-stats/main/images/github_stats.svg" 
-    style="display: inline-block; width: 40%;"/>
-  <img src="https://raw.githubusercontent.com/olivercalazans/my-github-stats/main/images/languages_stats.svg"
-    alt="top-langs" style="display: inline-block; width: 56%;" />
+  <img src="https://raw.githubusercontent.com/olivercalazans/my-github-stats/main/images/profile-night-green.svg" />
 </div>
